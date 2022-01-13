@@ -85,6 +85,14 @@
     .photo-gallery {
         flex-direction: column;
         gap: 30px;
-        margin-left: 20px;
+    }
+
+    .banner img {
+        width: 100%;
+    }
+
+    .banner-details {
+        left: 400px;
+        width: 100%;
     }
 }
