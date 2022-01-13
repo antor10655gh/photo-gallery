@@ -76,3 +76,10 @@
 .banner-details a:hover {
     background-color: rgb(7, 110, 194);
 }
+
+@media only screen and (max-width: 688px) {
+    .photo-gallery {
+        flex-direction: column;
+        gap: 30px;
+    }
+}
