@@ -81,6 +81,6 @@
     .photo-gallery {
         flex-direction: column;
         gap: 30px;
-        margin-left: 40px;
+        margin-left: 20px;
     }
 }
